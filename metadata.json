@@ -1,0 +1,5 @@
+{
+  "name": "Clearmud AI Video Captions",
+  "description": "An AI-powered video captioning tool that automatically generates, styles, and animates subtitles for your videos. Upload a video, generate captions with a click, and customize their appearance with various fonts, colors, and animations.",
+  "requestFramePermissions": []
+}
