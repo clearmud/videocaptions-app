@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+Long-form clipper lives in https://github.com/clearmud/grokbot-opus-clone — this repo stays the captions demo.
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1ucG8aCQkhcRPOzUo9zg4ZNzWvq9RrwX1
